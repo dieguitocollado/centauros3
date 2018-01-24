@@ -1,17 +1,17 @@
 ---
-layout: page
-title: About
-lang: en
-cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
-cover_meta: >
-  Photo by [Amador Loureiro](https://unsplash.com/@amadorloureiroblanco)
-position: 100
+layout: post
+permalink: /programa/index.html
+title: Sobre el programa
+cover_url: fondo.jpg
+tags: [programa, radio, cine, películas, directores, cinematográfico]
 navlevel: header
-navtitle: about
+navtitle: programa
 ---
+## Centauros del desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
-Kagami is a peaceful theme for Jekyll and GitHub Pages.
+Cada primer jueves de mes en Radio Bonanova (107.1 FM) y en YouTube, hablaremos sobre filmografías enteras de directores y actores, junto con un breve repaso de la actualidad.
 
-The theme was firstly designed for <https://banana.moe> in late 2016 and have it's first release in March 2017 with a whole bunch of big changes in both design and implementation.
-
-Visit [project home](https://github.com/kamikat/jekyll-theme-kagami) for source code and installation guides.
+### El equipo
+* Diego Collado, director del programa
+* Lucas Puncernau, colaborador
+* Ana Valverde, técnica de sonido
