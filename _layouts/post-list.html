@@ -37,7 +37,7 @@ layout: default
     <p class="post-description">{{ post.description }}</p>
     {% endif %}
     <div class="post-item-meta">
-      {{ {% include date-es.html date=page.date %} | date: "%B %-d, %Y" }}
+      {{ post.date | date: "%B %-d, %Y" }}
     </div>
   </li>
   {% endfor %}

@@ -23,7 +23,7 @@ url: "http://centauros.net" # the base hostname & protocol for your site, e.g. h
 twitter_username: centaurosradio
 instagram_username:  centaurosradio
 disqus_shortname: centauros
-
+lang: es
 
 # Build settings
 markdown: kramdown
