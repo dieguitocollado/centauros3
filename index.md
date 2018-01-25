@@ -2,8 +2,6 @@
 layout: home
 title: Sobre el programa
 cover_url: http://centauros.net/fondo.jpg
-cover_meta: >
-  Centauros del Desierto
 position: 1
 navlevel: header
 navtitle: el programa
