@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Primera cuña publicitaria
 category: articles
