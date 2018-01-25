@@ -6,9 +6,9 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
-## Centauros del desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
+## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
-Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona) y en YouTube, hablaremos sobre filmografías enteras de directores y actores, junto con un breve repaso de la actualidad.
+Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en iVoox y en YouTube, hablaremos sobre filmografías enteras de directores y actores, junto con un breve repaso de la actualidad.
 
 ### El equipo
 * Diego Collado, director del programa
