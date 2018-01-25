@@ -2,14 +2,13 @@
 layout: post
 permalink: /programa/index.html
 title: Sobre el programa
-cover_url: fondo.jpg
 tags: [programa, radio, cine, películas, directores, cinematográfico]
 cover_url: http://centauros.net/fondo.jpg
 cover_meta: >
   Centauros del Desierto
 position: 100
 navlevel: header
-navtitle: about
+navtitle: el programa
 ---
 ## Centauros del desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
