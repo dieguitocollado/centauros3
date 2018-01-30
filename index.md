@@ -32,7 +32,7 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en [iVo
 ---
 ### Programas anteriores
 
-Para escuchar los programas anteriores, haz click [aquí](/bitacora/ "Cuaderno de bitácora"), selecciona un audio en el siguiente reproductor, o haz click en 'Cuaderno de bitácora', en la barra de navegación superior.
+Para escuchar los programas anteriores, haz click [aquí](/bitacora/ "Cuaderno de bitácora"), selecciona un audio en el reproductor a continuación o haz click en 'Cuaderno de bitácora', en la barra de navegación superior.
 
 <iframe src="http://www.ivoox.com/player_es_podcast_495004_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
 
