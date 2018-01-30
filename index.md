@@ -19,13 +19,8 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en [iVo
 ### Suscríbete
 
 ```html
-<style>
-.suscripcion {
-    margin: auto;
-    width: 50%;
-}
-</style>
-<div class="suscripcion">
+
+<div class="suscripcion" style="text-align:center;margin: auto;width: 50%">
 <a class="social-link social-rss" href="{{ "/feed.xml" | relative_url  }}" target="_blank">
 <i class="icon-rss"></i>
 </a>
@@ -36,6 +31,7 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en [iVo
 <i class="icon-itunes"></i>
 </a>
 </div>
+
 ```
 
 ---
