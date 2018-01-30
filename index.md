@@ -18,7 +18,6 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en [iVo
 ---
 ### Suscríbete
 
-```html
 
 <div class="suscripcion" style="text-align:center;margin: auto;width: 50%">
 <a class="social-link social-rss" href="{{ "/feed.xml" | relative_url  }}" target="_blank">
@@ -32,7 +31,6 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), en [iVo
 </a>
 </div>
 
-```
 
 ---
 ### Programas anteriores
