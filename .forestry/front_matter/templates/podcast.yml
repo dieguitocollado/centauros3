@@ -1,0 +1,17 @@
+---
+pages:
+- _posts/testing.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: Título
+- type: text
+  name: layout
+  label: layout
+  default: post
+- type: text
+  label: category
+  name: category
+  default: articles
