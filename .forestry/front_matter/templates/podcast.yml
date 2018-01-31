@@ -11,7 +11,16 @@ fields:
   name: layout
   label: layout
   default: post
-- type: text
-  label: category
+- type: tag_list
+  name: tags
+  label: tags
+- type: select
   name: category
-  default: articles
+  config:
+    source:
+      type: simple
+    options:
+    - articles
+    - episodios
+  label: category
+- type: image_gallery
