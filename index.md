@@ -6,7 +6,7 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
-<a href="/directo" class="DIRECTO" style="color:white">EN DIRECTO</a>
+<a href="/directo/index.html" class="DIRECTO" style="color:white">EN DIRECTO</a>
 ---
 ## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
