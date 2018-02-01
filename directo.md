@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: page
 title: En directo
 permalink: /directo/index.html
 position: 3
