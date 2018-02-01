@@ -6,7 +6,7 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
-<a href="http://diegocollado.net/directo" class="DIRECTO">EN DIRECTO</a>
+<a href="/directo" class="DIRECTO" style="text-align:center;margin: auto;width: 50%">EN DIRECTO</a>
 ---
 ## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
