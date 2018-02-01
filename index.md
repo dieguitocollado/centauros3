@@ -6,8 +6,7 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
-<a href="/directo/index.html" class="DIRECTO" style="color:white">EN DIRECTO</a>
----
+
 ## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
 Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), [iTunes](https://itunes.apple.com/es/podcast/centauros-del-desierto/id1341624405?l=en&mt=2), [PodBean](https://centauros.podbean.com/), [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox") y [YouTube](https://www.youtube.com/channel/UCK9WfLcd5Fnz_0fIrVUcZjg?view_as=subscriber), intentaremos recorrer la filmografía de un director o actor, junto con un breve repaso de la actualidad.
