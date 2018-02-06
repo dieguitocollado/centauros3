@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/ep-1-artavazd-peleshyan.md
 hide_body: false
 fields:
 - type: text
