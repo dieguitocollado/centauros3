@@ -5,7 +5,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: page
 - name: title
   label: Title
   type: text
@@ -15,7 +15,7 @@ fields:
   label: Position
   type: text
   hidden: false
-  default: ''
+  default: header
 - name: navlevel
   label: Navlevel
   type: text
@@ -31,3 +31,4 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: image_gallery
