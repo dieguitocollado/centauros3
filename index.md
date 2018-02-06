@@ -27,7 +27,7 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), [iTunes
 <a class="social-link social-twitter" href="https://centauros.podbean.com/">
 <i class="icon-podcast"></i>
 </a>
-<a class="social-link social-twitter" href="https://itunes.apple.com/es/podcast/centauros-del-desierto/id1341624405?l=en&mt=2">
+<a class="social-link social-twitter" href="https://itunes.apple.com/es/podcast/centauros-del-desierto/id1342332521?l=en&mt=2">
 <i class="icon-itunes"></i>
 </a>
 </div>
