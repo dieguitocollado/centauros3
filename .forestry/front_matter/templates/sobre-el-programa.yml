@@ -1,4 +1,6 @@
 ---
+pages:
+- el-equipo.md
 hide_body: false
 fields:
 - name: layout
