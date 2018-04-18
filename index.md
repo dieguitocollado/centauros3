@@ -38,4 +38,4 @@ Cada **primer jueves de mes** en Radio Bonanova (107.1 FM en Barcelona), [iTunes
 
 Para escuchar los programas anteriores, puedes utilizar el reproductor a continuación o hacer click [aquí](/bitacora/ "Cuaderno de bitácora") o en 'Cuaderno de bitácora', en la barra de navegación superior.
 
-<iframe src="https://www.podbean.com/media/player/imdsq-86eb50?from=yiiadmin&skin=1&btn-skin=108&share=1&fonts=Helvetica&auto=0&download=0&rtl=0" scrolling="no" data-name="pb-iframe-player" width="100%" height="100" frameborder="0"></iframe>
+<iframe id="multi_iframe" scrolling="no" allowfullscreen="" src="https://www.podbean.com/media/player/multi?playlist=http%3A%2F%2Fplaylist.podbean.com%2F2458068%2Fplaylist_multi.xml&vjs=1&kdsowie31j4k1jlf913=c9ea005836de841e32ac9a3f43a972995dfa83b4&size=240&share=1&fonts=Helvetica&auto=0&download=0&rtl=0&skin=8" width="100%" height="430" frameborder="0"></iframe>
