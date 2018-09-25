@@ -6,6 +6,8 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
+{::nomarkdown}
+
 <style>
 .BUTTON_AGP {
    background: #F61919;
@@ -43,13 +45,13 @@ navtitle: el programa
 }
 
 </style>
+
 <a href="/live" class="BUTTON_AGP"></a>
+{:/}
 
 ## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
-<a href="/live" class="BUTTON_AGP"></a>
 
 Cada **primer jueves de mes** a las 18:00 en Radio Bonanova (107.1 FM en Barcelona), [iTunes](https://itunes.apple.com/es/podcast/centauros-del-desierto/id1341624405?l=en&mt=2), [PodBean](https://centauros.podbean.com/), [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox") y [YouTube](https://www.youtube.com/channel/UCK9WfLcd5Fnz_0fIrVUcZjg?view_as=subscriber), intentaremos recorrer la filmografía de un director o actor, junto con un breve repaso de la actualidad.
-<a href="/live" class="BUTTON_AGP"></a>
 
 ### El equipo
 * Diego Collado, director del programa
