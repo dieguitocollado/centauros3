@@ -30,7 +30,6 @@ navtitle: el programa
 	font-size:17px;
 	font-weight:bold;
 	padding:6px 24px;
-	text-color: white;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #854629;
 	  display: block;
