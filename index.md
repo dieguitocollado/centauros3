@@ -35,7 +35,7 @@ navtitle: el programa
 	  display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 60%;
 }
 .myButton:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc3315), color-stop(1, #d0451b));
