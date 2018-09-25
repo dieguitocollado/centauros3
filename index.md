@@ -6,6 +6,46 @@ position: 1
 navlevel: header
 navtitle: el programa
 ---
+<style>
+
+.BUTTON_AGP {
+   background: #F61919;
+   background-image: -webkit-linear-gradient(top, #F61919, #A63838);
+   background-image: -moz-linear-gradient(top, #F61919, #A63838);
+   background-image: -ms-linear-gradient(top, #F61919, #A63838);
+   background-image: -o-linear-gradient(top, #F61919, #A63838);
+   background-image: linear-gradient(to bottom, #F61919, #A63838);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 50px;
+   font-weight: 700;
+   padding: 40px;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+}
+
+.BUTTON_AGP:hover {
+   background: #FF6969;
+   background-image: -webkit-linear-gradient(top, #FF6969, #F6C7C7);
+   background-image: -moz-linear-gradient(top, #FF6969, #F6C7C7);
+   background-image: -ms-linear-gradient(top, #FF6969, #F6C7C7);
+   background-image: -o-linear-gradient(top, #FF6969, #F6C7C7);
+   background-image: linear-gradient(to bottom, #FF6969, #F6C7C7);
+   text-decoration: none;
+}
+
+</style>
+
+<a href="/live" class="BUTTON_AGP"></a>
 
 ## Centauros del Desierto es un nuevo espacio radiofónico dedicado a la exploración del mundo cinematográfico.
 
